@@ -1,0 +1,185 @@
+# ALPS Prompt Dataset
+# 180 curated prompts for generation length prediction experiments
+# Categories: short (60), medium (65), long (55)
+# Format: [category] [subcategory] prompt_text
+
+[short] [factual] What year was Google founded?
+[short] [factual] What is the capital of Australia?
+[short] [factual] Who wrote Romeo and Juliet?
+[short] [factual] What is the chemical symbol for gold?
+[short] [factual] How many planets are in our solar system?
+[short] [factual] What is the largest ocean on Earth?
+[short] [factual] Who painted the Mona Lisa?
+[short] [factual] What is the speed of light in km/s?
+[short] [factual] What year did World War 2 end?
+[short] [factual] What is the tallest mountain in the world?
+[short] [factual] Who invented the telephone?
+[short] [factual] What is the smallest country in the world?
+[short] [factual] What language has the most native speakers?
+[short] [factual] What is the currency of Japan?
+[short] [factual] Who was the first person to walk on the moon?
+[short] [factual] What is the largest planet in our solar system?
+[short] [factual] What year was the iPhone first released?
+[short] [factual] What is the boiling point of water in Celsius?
+[short] [factual] Who founded Microsoft?
+[short] [factual] What is the longest river in the world?
+[short] [yes_no] Is Python an interpreted language?
+[short] [yes_no] Is the sun a star?
+[short] [yes_no] Is water H2O?
+[short] [yes_no] Is Tokyo the capital of Japan?
+[short] [yes_no] Is gold heavier than silver?
+[short] [yes_no] Is Linux an operating system?
+[short] [yes_no] Is the Great Wall of China visible from space?
+[short] [yes_no] Is a tomato a fruit?
+[short] [yes_no] Is Mount Everest in Nepal?
+[short] [yes_no] Is JavaScript the same as Java?
+[short] [yes_no] Is the Earth older than the Moon?
+[short] [yes_no] Is carbon dioxide a greenhouse gas?
+[short] [yes_no] Is Bitcoin a cryptocurrency?
+[short] [yes_no] Is Antarctica a continent?
+[short] [yes_no] Is light faster than sound?
+[short] [definition] Define entropy in one sentence.
+[short] [definition] What is a prime number?
+[short] [definition] Define photosynthesis briefly.
+[short] [definition] What is an algorithm?
+[short] [definition] Define democracy in simple terms.
+[short] [definition] What is a black hole?
+[short] [definition] Define inflation in economics.
+[short] [definition] What is DNA?
+[short] [definition] Define machine learning in one sentence.
+[short] [definition] What is a metaphor?
+[short] [definition] Define gravity briefly.
+[short] [definition] What is an ecosystem?
+[short] [definition] Define capitalism in simple terms.
+[short] [definition] What is a virus in biology?
+[short] [definition] Define recursion in programming.
+[short] [simple_question] Why is the sky blue? Answer briefly.
+[short] [simple_question] What causes rain? One paragraph max.
+[short] [simple_question] Why do leaves change color in fall? Brief answer.
+[short] [simple_question] What makes ice float on water? Short explanation.
+[short] [simple_question] Why do we have seasons? Brief answer.
+[short] [simple_question] What causes thunder? One sentence.
+[short] [simple_question] Why is the ocean salty? Brief explanation.
+[short] [simple_question] What makes a rainbow? Short answer.
+[short] [simple_question] Why do stars twinkle? Brief response.
+[short] [simple_question] What causes tides? One paragraph.
+[medium] [explanation] How does photosynthesis work?
+[medium] [explanation] Explain how a refrigerator works.
+[medium] [explanation] How do vaccines work?
+[medium] [explanation] Explain the water cycle.
+[medium] [explanation] How does GPS determine your location?
+[medium] [explanation] Explain how airplanes fly.
+[medium] [explanation] How does the internet work?
+[medium] [explanation] Explain how muscles grow after exercise.
+[medium] [explanation] How do search engines rank results?
+[medium] [explanation] Explain how solar panels generate electricity.
+[medium] [explanation] How does the human immune system work?
+[medium] [explanation] Explain how a car engine works.
+[medium] [explanation] How do cryptocurrencies work?
+[medium] [explanation] Explain how 3D printers work.
+[medium] [explanation] How does memory work in the human brain?
+[medium] [explanation] Explain how touchscreens detect touch.
+[medium] [explanation] How do noise-canceling headphones work?
+[medium] [explanation] Explain how MRI machines work.
+[medium] [explanation] How does the stock market work?
+[medium] [explanation] Explain how batteries store energy.
+[medium] [comparison] Compare TCP and UDP protocols.
+[medium] [comparison] What are the differences between Python and JavaScript?
+[medium] [comparison] Compare democracy and authoritarianism.
+[medium] [comparison] What's the difference between weather and climate?
+[medium] [comparison] Compare renewable and non-renewable energy.
+[medium] [comparison] What are the differences between RAM and ROM?
+[medium] [comparison] Compare machine learning and traditional programming.
+[medium] [comparison] What's the difference between a virus and bacteria?
+[medium] [comparison] Compare capitalism and socialism.
+[medium] [comparison] What are the differences between HTTP and HTTPS?
+[medium] [comparison] Compare electric and gasoline cars.
+[medium] [comparison] What's the difference between a meteor and an asteroid?
+[medium] [comparison] Compare aerobic and anaerobic exercise.
+[medium] [comparison] What are the differences between iOS and Android?
+[medium] [comparison] Compare classical and quantum computing.
+[medium] [summary] Summarize the plot of Romeo and Juliet.
+[medium] [summary] Give a brief overview of World War 1.
+[medium] [summary] Summarize the theory of evolution.
+[medium] [summary] Give a brief overview of the French Revolution.
+[medium] [summary] Summarize how the internet was created.
+[medium] [summary] Give a brief overview of climate change.
+[medium] [summary] Summarize the story of the Odyssey.
+[medium] [summary] Give a brief overview of the Renaissance.
+[medium] [summary] Summarize the main ideas of Buddhism.
+[medium] [summary] Give a brief overview of the Cold War.
+[medium] [summary] Summarize how democracy developed in ancient Greece.
+[medium] [summary] Give a brief overview of the Industrial Revolution.
+[medium] [summary] Summarize the plot of 1984 by George Orwell.
+[medium] [summary] Give a brief overview of the space race.
+[medium] [summary] Summarize the main principles of economics.
+[medium] [how_to] How do you make bread from scratch?
+[medium] [how_to] Explain how to change a car tire.
+[medium] [how_to] How do you start learning to code?
+[medium] [how_to] Explain how to write a good resume.
+[medium] [how_to] How do you train for a marathon?
+[medium] [how_to] Explain how to start a small business.
+[medium] [how_to] How do you learn a new language effectively?
+[medium] [how_to] Explain how to give a good presentation.
+[medium] [how_to] How do you build good habits?
+[medium] [how_to] Explain how to negotiate a salary.
+[medium] [how_to] How do you improve your writing skills?
+[medium] [how_to] Explain how to manage personal finances.
+[medium] [how_to] How do you prepare for a job interview?
+[medium] [how_to] Explain how to meditate for beginners.
+[medium] [how_to] How do you take better photographs?
+[long] [detailed] Explain how neural networks learn, including forward propagation, backpropagation, and gradient descent.
+[long] [detailed] Describe the process of evolution by natural selection with examples.
+[long] [detailed] Explain the causes, progression, and resolution of the American Civil War.
+[long] [detailed] Describe how the human digestive system works from eating to excretion.
+[long] [detailed] Explain the history and impact of the printing press on society.
+[long] [detailed] Describe the structure and function of the human heart and circulatory system.
+[long] [detailed] Explain how compilers translate code from high-level languages to machine code.
+[long] [detailed] Describe the causes and effects of the Great Depression.
+[long] [detailed] Explain the science behind climate change including greenhouse gases and feedback loops.
+[long] [detailed] Describe the life cycle of a star from formation to death.
+[long] [detailed] Explain the history and development of the internet from ARPANET to today.
+[long] [detailed] Describe how the human eye works including optics and neural processing.
+[long] [detailed] Explain the principles of object-oriented programming with examples.
+[long] [detailed] Describe the causes and consequences of the fall of the Roman Empire.
+[long] [detailed] Explain how CRISPR gene editing works and its potential applications.
+[long] [multipart] What are the main causes of poverty, its effects on society, and potential solutions?
+[long] [multipart] Discuss the benefits, risks, and ethical considerations of artificial intelligence.
+[long] [multipart] Explain the causes of World War 1, key events, and its lasting consequences.
+[long] [multipart] What are the types of renewable energy, their advantages, disadvantages, and future potential?
+[long] [multipart] Discuss the history of civil rights movements, key figures, and remaining challenges.
+[long] [multipart] Explain what blockchain is, how it works, and its applications beyond cryptocurrency.
+[long] [multipart] What are the causes of mental health issues, their impact, and treatment approaches?
+[long] [multipart] Discuss the history of space exploration, major achievements, and future goals.
+[long] [multipart] Explain the scientific method, its steps, and why it's important for research.
+[long] [multipart] What are the effects of social media on society, both positive and negative?
+[long] [multipart] Discuss the history of democracy, different forms of government, and their tradeoffs.
+[long] [multipart] Explain how the economy works including supply and demand, inflation, and monetary policy.
+[long] [multipart] What are the major world religions, their core beliefs, and how they compare?
+[long] [multipart] Discuss the causes of environmental pollution, its effects, and solutions.
+[long] [multipart] Explain the history of computing from early machines to modern computers.
+[long] [analytical] Analyze the pros and cons of remote work for employees and employers.
+[long] [analytical] Discuss the arguments for and against universal basic income.
+[long] [analytical] Analyze the impact of automation on employment and the economy.
+[long] [analytical] Discuss the ethical implications of genetic engineering in humans.
+[long] [analytical] Analyze the effectiveness of different education systems around the world.
+[long] [analytical] Discuss the arguments for and against nuclear energy.
+[long] [analytical] Analyze the impact of globalization on developing countries.
+[long] [analytical] Discuss the pros and cons of social media regulation.
+[long] [analytical] Analyze the effectiveness of different approaches to healthcare systems.
+[long] [analytical] Discuss the arguments for and against space colonization.
+[long] [analytical] Analyze the impact of streaming services on the entertainment industry.
+[long] [analytical] Discuss the ethics of animal testing in medical research.
+[long] [analytical] Analyze the effectiveness of international climate agreements.
+[long] [analytical] Discuss the pros and cons of standardized testing in education.
+[long] [analytical] Analyze the impact of e-commerce on traditional retail.
+[long] [creative] Write a short story about a scientist who discovers time travel.
+[long] [creative] Create a dialogue between Socrates and a modern AI researcher.
+[long] [creative] Write a short story about the last human on Earth.
+[long] [creative] Create a conversation between Einstein and Newton about physics.
+[long] [creative] Write a short story about a robot learning to feel emotions.
+[long] [creative] Create a dialogue between a climate scientist and a skeptic.
+[long] [creative] Write a short story about first contact with aliens.
+[long] [creative] Create a conversation between a medieval knight and a modern soldier.
+[long] [creative] Write a short story about a world without electricity.
+[long] [creative] Create a dialogue between Aristotle and a modern philosopher.
