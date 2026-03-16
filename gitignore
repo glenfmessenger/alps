@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data files (run locally, not committed)
+*.npy
+*.npz
+*.pt
+*.bin
+*.h5
+*.hdf5
+
+# Experiment outputs (results JSONs are committed, raw data is not)
+**/data/
+activations/
+activations_eos.npy
+features.npy
+features_eos.npy
+targets.npy
+targets_eos.npy
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
